@@ -1,0 +1,2 @@
+student_id,last_name,first_name,section,quiz1,quiz2,quiz3,quiz4,quiz5,midterm,final,attendance_percent,,final_numeric,final_grade,letter
+123,Pharel,Pharell,3,21.0,2.0,12.0,,,,,2.01231,"['precv', 'erer', '123e', '34.0', '45.0', '56.0', '67.0', '78.0', '89.0', '67.0', '78.0']",3.7,3.70,F
