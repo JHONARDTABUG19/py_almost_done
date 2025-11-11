@@ -1,5 +1,5 @@
-student_id,last_name,first_name,section,quiz1,quiz2,quiz3,quiz4,quiz5,midterm,final,attendance_percent,final_numeric,final_grade,letter
-1,qwe,wer,A,45.0,45.0,45.0,45.0,45.0,56.0,56.0,56.0,52.7,52.70,F
-1123,qwer,qwer,A,55.0,55.0,55.0,0.0,55.0,55.0,66.0,77.0,57.2,57.20,F
-4444,jhonard,tabug,A,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.00,D
-3333,qweer,dfgdf,A,77.0,77.0,77.0,77.0,77.0,77.0,77.0,0.0,69.3,69.30,D
+student_id,last_name,first_name,section,quiz1,quiz2,quiz3,quiz4,quiz5,midterm,final,attendance_percent,final_grade,letter_grade
+1123,qwer,qwer,A,55.0,55.0,55.0,0.0,55.0,55.0,66.0,77.0,57.20,F
+3333,qweer,dfgdf,A,77.0,77.0,77.0,77.0,77.0,77.0,77.0,0.0,69.30,D
+1,qwe,wer,A,45.0,45.0,45.0,45.0,45.0,56.0,56.0,56.0,52.70,F
+4444,jhonard,tabug,A,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.00,D
