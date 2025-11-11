@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Academic Analytics Lite</title>
+  
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
